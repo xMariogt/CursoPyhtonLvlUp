@@ -1,0 +1,4 @@
+.venv\Scripts\activate (para entrar al ambiente virtual)
+********************************************************
+pip install -r requirements.txt (Para instalar los requisitos de la aplicacion)
+********************************************************
