@@ -1,0 +1,4 @@
+SQLAlchemy==1.4.44
+stripe==5.0.0
+
+
