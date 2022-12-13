@@ -2,3 +2,13 @@
 ********************************************************
 pip install -r requirements.txt (Para instalar los requisitos de la aplicacion)
 ********************************************************
+cd mnt/c/users/Mario/desktop (Acceder a mi informacion en terminal windows)
+********************************************************
+python3 -m venv .venv (crear ambiente virtual)
+********************************************************
+git checkout "nombre de la rama" (para cambiar de rama)
+********************************************************
+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 (Token de acceso)
+*********************************************************
+
+
