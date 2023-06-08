@@ -14,6 +14,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDcg6+hMiIpxBm9kJyEXnpn1WDzaXVRIqiST3fmKmu4
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQClc8LBdcGU1k2ts5S0iSKt6uhtAmD0bukalj6Uf3C/2FPxU4O/rvXAvvMwqgeg1ZoQn2t9Nskwx0QDcWEoUO9S+7JCzhiEwDD6SsaXyhKu3cK51rWO3OCnqPfDtZpXKyMuYL/vhKkWMJjol29xIqXvvzVqxR1V8oPLAGHozpToKQ28QMkIod36893C7XF9Lo2shmwG8Qb4QJ6V8a0LJ2FroHcrzwDqB+iZzCO+3ufnDpljs5Pwk4Sqeg06TLrr5GTv5jA7VgoubYGj5uPFwPtIp91tJhtAuL7N7+WDH0+OdE9gS4nHaHiCP49Wg03ZXbdW0A0wt90JTj6yDfV3MflR9YU7LYlb15hTDThLvkWjh/4GqM9FXjGbaGovQZZtuPZsG6fX0Hgk/t75tC0KgTFsTRXFdYvuGhMAe5fCDV4d1yYmvDaUbNLBDYtj0eWNi+k2E0BHDvPFTWKYmsM2ncWbw+mpG8ZrfVQY8JrF+1Kmi4qUTfq+TKiybA1BCFtJRaU= mario@DESKTOP-KLVFM8A
 LLAVE DE SSH
 *********************************************************
-
+cd (esto primero)
+ssh-keygen (Luego esto para generar llaves desde terminal)
+*******************************************************
 
 
